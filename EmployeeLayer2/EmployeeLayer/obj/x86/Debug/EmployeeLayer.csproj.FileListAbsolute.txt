@@ -1,0 +1,28 @@
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EmployeeLayer.exe
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EmployeeLayer.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.csprojResolveAssemblyReference.cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.frmEmployee.resources
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.Properties.Resources.resources
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.csproj.GenerateResource.Cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.exe
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EmployeeLayer.exe.config
+D:\1\EmployeeLayer\BIN\EmployeeLayer.exe.config
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.exe
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.pdb
+D:\1\EmployeeLayer\BIN\EmployeeLayer.exe
+D:\1\EmployeeLayer\BIN\EmployeeLayer.pdb
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.frmEmployee.resources
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\EmployeeLayer.Properties.Resources.resources
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\1\EmployeeLayer\EmployeeLayer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EmployeeLayer.exe.config
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EmployeeLayer\obj\x86\Debug\EmployeeLayer.exe
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EmployeeLayer\obj\x86\Debug\EmployeeLayer.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EmployeeLayer.exe
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EmployeeLayer.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EmployeeLayer\obj\x86\Debug\EmployeeLayer.csprojResolveAssemblyReference.cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EmployeeLayer\obj\x86\Debug\EmployeeLayer.frmEmployee.resources
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EmployeeLayer\obj\x86\Debug\EmployeeLayer.Properties.Resources.resources
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EmployeeLayer\obj\x86\Debug\EmployeeLayer.csproj.GenerateResource.Cache

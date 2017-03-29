@@ -1,0 +1,15 @@
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EMDAO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EMDAO.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMDAO\obj\Debug\EMDAO.csprojResolveAssemblyReference.cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMDAO\obj\Debug\EMDAO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMDAO\obj\Debug\EMDAO.pdb
+D:\1\EmployeeLayer\BIN\EMDAO.dll
+D:\1\EmployeeLayer\BIN\EMDAO.pdb
+D:\1\EmployeeLayer\EMDAO\obj\Debug\ResolveAssemblyReference.cache
+D:\1\EmployeeLayer\EMDAO\obj\Debug\EMDAO.dll
+D:\1\EmployeeLayer\EMDAO\obj\Debug\EMDAO.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMDAO\obj\Debug\EMDAO.csprojResolveAssemblyReference.cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMDAO\obj\Debug\EMDAO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EMDAO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EMDAO.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMDAO\obj\Debug\EMDAO.pdb

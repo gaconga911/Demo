@@ -1,0 +1,13 @@
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EMDTO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EMDTO.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMDTO\obj\Debug\EMDTO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMDTO\obj\Debug\EMDTO.pdb
+D:\1\EmployeeLayer\BIN\EMDTO.dll
+D:\1\EmployeeLayer\BIN\EMDTO.pdb
+D:\1\EmployeeLayer\EMDTO\obj\Debug\ResolveAssemblyReference.cache
+D:\1\EmployeeLayer\EMDTO\obj\Debug\EMDTO.dll
+D:\1\EmployeeLayer\EMDTO\obj\Debug\EMDTO.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EMDTO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EMDTO.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMDTO\obj\Debug\EMDTO.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMDTO\obj\Debug\EMDTO.pdb

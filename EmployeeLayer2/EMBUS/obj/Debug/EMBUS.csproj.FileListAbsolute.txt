@@ -1,0 +1,15 @@
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EMBUS.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\BIN\EMBUS.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMBUS\obj\Debug\EMBUS.csprojResolveAssemblyReference.cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMBUS\obj\Debug\EMBUS.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer\EMBUS\obj\Debug\EMBUS.pdb
+D:\1\EmployeeLayer\BIN\EMBUS.dll
+D:\1\EmployeeLayer\BIN\EMBUS.pdb
+D:\1\EmployeeLayer\EMBUS\obj\Debug\ResolveAssemblyReference.cache
+D:\1\EmployeeLayer\EMBUS\obj\Debug\EMBUS.dll
+D:\1\EmployeeLayer\EMBUS\obj\Debug\EMBUS.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMBUS\obj\Debug\EMBUS.csprojResolveAssemblyReference.cache
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMBUS\obj\Debug\EMBUS.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EMBUS.dll
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\BIN\EMBUS.pdb
+D:\Study\3_Bai tap\[5] Lap trinh CSDL\EmployeeLayer2\EMBUS\obj\Debug\EMBUS.pdb
